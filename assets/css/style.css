@@ -179,7 +179,7 @@ body {
 .services-header {
     width: 900px;
     text-align: center;
-    margin-bottom: 60px;
+    margin: 0 auto 60px auto;
 }
 
 .services-header h2 {
